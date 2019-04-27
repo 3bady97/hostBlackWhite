@@ -1,0 +1,23 @@
+.fontar
+{
+    font-family: Changa !important;
+}
+body
+{
+ background: #eee;
+ font-family: Changa !important;
+}
+img 
+{
+  -webkit-filter: grayscale(100%) !important; /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%) !important;
+}
+.uk-subnav-pill>.uk-active>a
+{
+    background-color: #16161694 !important;
+    color: #ffffff !important;
+}
+.uk-label
+{
+ background-color: #717171 !important;
+}
